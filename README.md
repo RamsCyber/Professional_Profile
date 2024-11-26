@@ -1,4 +1,13 @@
 # Professional_Profile
+
+•	👋 Hi, I’m Rafael Samogim and my nick name is @ramsamogim
+•	👀 I’m interested in Data Science and Cyber Security.
+•	🌱 I’m currently learning Cyber Security.
+•	💞️ I’m looking to collaborate on many diferent kinds of projects in information security...
+•	📫 How to reach me my e-mail rafael.am.samogim@gmail.com and my linkedin: https://www.linkedin.com/in/rafaelsamogim/.
+RamsCyber/RamsCyber is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+
+
 I am Rafael Almeida Mello Samogim, a professional with solid training and experience in Food Engineering, graduated from the University of São Paulo (USP). At 40 years old, I am married and live in Campinas, SP. I am currently in a career transition to the Information Technology area, driven by my passion for technology and information security. I am studying Cyber ​​Defense at Fatec Jundiaí, complementing my Postgraduate Degree in Information Security and MBA in Production Management and Business Logistics.
 
 My technical IT knowledge acquired to date
